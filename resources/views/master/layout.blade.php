@@ -140,7 +140,7 @@ $(document).ready(function(){
 
 <!-- Back to top -->
 <a href="#" class="back-to-top" ><i class="fas fa-chevron-up fa-2x text-center p-2 text-dark" style="background-color:rgb(55,207,162);" ></i></a>
-<a href="/whatsapp" class="whatsapp" ><i class="fab fa-whatsapp fa-2x text-success"></i> </a>
+<a href="/whatsapp" class="whatsapp" ><img src="{{asset('image/whatsapp.png')}}" alt="" class="img-fluid " height="55px" width="55px"></a>
 
 <footer class="footer">
 <div class="div container container-sm ">
@@ -152,6 +152,7 @@ $(document).ready(function(){
  	 Bringing The Outdoors Indoors. We've Got Everything You Need For
 	  Floors, Walls, Bathrooms, Kitchen, Tools, Diy And Decor Advice. 
 	  Trust Us With Your Space, Because With Us, Our Home Is Your Home.</p>
+      <h4 class="mt-5">Some Facts About Me:</h4>
 
 </div>
 <div class="col-12 col-md-3 col-lg-3 mt-5  ">
