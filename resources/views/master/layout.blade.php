@@ -140,7 +140,7 @@ $(document).ready(function(){
 
 <!-- Back to top -->
 <a href="#" class="back-to-top" ><i class="fas fa-chevron-up fa-2x text-center p-2 text-dark" style="background-color:rgb(55,207,162);" ></i></a>
-<a href="/whatsapp" class="whatsapp" ><img src="{{asset('image/whatsapp.png')}}" alt="" class="img-fluid " height="55px" width="55px"></a>
+<a href="/whatsapp" class="whatsapp" ><i class="fab fa-whatsapp fa-2x text-success"></i> </a>
 
 <footer class="footer">
 <div class="div container container-sm ">
@@ -201,7 +201,7 @@ $(document).ready(function(){
 <img src="{{asset('image/')}}" alt="" class="img-fluid bg-white" width="40%" height="100px">
 </div>
 <div class="col-12 col-lg-7 text-center mt-4">
-<p>All Rights Reserved By King Board & Granite &copy; 2021</p>
+<p>All Rights Reserved By Nadeem khan &copy; 2021</p>
 </div>
 </div>
 </div>
