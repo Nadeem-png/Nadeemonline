@@ -16,6 +16,12 @@ color:white;
 
 background: linear-gradient( 358.4deg,  rgba(249,151,119,1) -2.1%, rgba(98,58,162,1) 90% );
 }
+.color{
+   
+
+
+color: linear-gradient( 358.4deg,  rgba(249,151,119,1) -2.1%, rgba(98,58,162,1) 90% );
+}
  
 </style>
 <div class="container mt-5 py-5 container-sm">
@@ -35,7 +41,7 @@ I will work until my client is 100% satisfied.</h5>
 </center>
 
 <h3 class="mt-4">Nadeem Khan</h3>
-<h4 class="mt-2">Full Stack Web/ Developer</h4>
+<h4 class="mt-2 color">Full Stack Web/ Developer</h4>
 <h6 class="mt-3">Website Designer and Developer, focusing on new trends in the
  field of website development. I will create responsive, user-friendly
    website and fix
@@ -44,18 +50,18 @@ I will work until my client is 100% satisfied.</h5>
  I have a modern progressive approach to design websites.</h6>
 
  <h4 class="mt-5">Some Facts About Me:</h4>
- <p class="mt-4 mb-2"> <span>..</span>Technical education</p>
- <p class="mb-2"> <span>..</span>Creative and easy-going</p>
- <p class="mb-2"> <span>..</span>2+ years of experience</p>
- <p class="mb-2"> <span>..</span>Responsible</p>
- <p class="mb-2"> <span>..</span>100+ successfull projects</p>
- <p class="mb-2"> <span>..</span>Attentive to details</p>
+ <p class="mt-4 mb-2"> <span class="color">-</span> Technical education</p>
+ <p class="mb-2"> <span class="color">-</span> Creative and easy-going</p>
+ <p class="mb-2"> <span class="color" >-</span> 2+ years of experience</p>
+ <p class="mb-2"> <span class="color" >-</span> Responsible</p>
+ <p class="mb-2"> <span class="color" >-</span> 100+ successfull projects</p>
+ <p class="mb-2"> <span class="color" >-</span> Attentive to details</p>
 </div>
 </div>
 </div>
 <div class="benifit">
 <div class="container container-sm  text-center">
-<h4 class="py-5">BENEFITS</h4>
+<h4 class="py-5 color">BENEFITS</h4>
 <h2 class="">Why Work With Me</h2>
 <div class="row">
 <div class="col-12 col-lg-6 col-md-6">
@@ -88,7 +94,7 @@ Discover what is working in your online industry, then design your website.</p>
 </div>
 
 <div class="container container-sm text-center mt-5">
-<h4>PORTFOLIO</h4>
+<h4 class="color">PORTFOLIO</h4>
 <h2 class="mt-3 mb-5">Check Out My Works</h2>
 
 <div class="row">
@@ -127,7 +133,7 @@ Discover what is working in your online industry, then design your website.</p>
 </div>
 
 <div class="container container-sm mt-5 py-3">
-<h4 class="text-center mt-5" style="color: rgb(55,207,162)">Contact</h4>
+<h4 class="text-center mt-5 color">Contact</h4>
 <h2 class="text-center mt-3" >Let’s Have A Chat!</h2>
 <h6 class="text-center mt-5" >Interested? Let’s Get in touch and start working on your website now!</h6>
 <div data-aos="fade-up"
@@ -137,7 +143,7 @@ Discover what is working in your online industry, then design your website.</p>
     <div class="row mb-5">
     <div class="col-2">
 <a href="" class="">
-            <i class="fab fa-linkedin-in text-dark " style="font-size: 25px"></i>
+            <i class="fab fa-linkedin-in color " style="font-size: 25px"></i>
         </a>
     </div>
     <div class="col-10">
@@ -147,7 +153,7 @@ Discover what is working in your online industry, then design your website.</p>
     <div class="row  mb-5">
     <div class="col-2">
 <a href="" class="">
-            <i class="fab fa-linkedin-in text-dark " style="font-size: 25px"></i>
+            <i class="fab fa-linkedin-in color " style="font-size: 25px"></i>
         </a>
     </div>
     <div class="col-10">
@@ -157,7 +163,7 @@ Discover what is working in your online industry, then design your website.</p>
     <div class="row  mb-5">
     <div class="col-2">
 <a href="" class="">
-            <i class="fab fa-linkedin-in text-dark " style="font-size: 25px"></i>
+            <i class="fab fa-linkedin-in color " style="font-size: 25px"></i>
         </a>
     </div>
     <div class="col-10">
