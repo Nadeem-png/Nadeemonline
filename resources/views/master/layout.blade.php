@@ -177,7 +177,7 @@ $(document).ready(function(){
 <a href="https://github.com/Nadeem-png" class="ml-4 ">
             <i class="fab fa-github color" style="font-size: 25px"></i>
         </a>
-        <h6 class="mt-5">© 2020 Nadeem khan - Web Developer. All Rights Reserved.</h6>
+        <h6 class="mt-5">&copy; 2020-<?php echo date("Y") Nadeem khan - Web Developer. All Rights Reserved.</h6>
 </div>
 </div>
 </footer>
