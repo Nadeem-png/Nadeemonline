@@ -10,7 +10,11 @@
     background-color:#e6e9ed;
     height:auto;
 }
+.btn{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
 
+}
+ 
 </style>
 <div class="container mt-5 py-5 container-sm">
 <div class="row">
@@ -18,8 +22,8 @@
 <h1 class="mt-5">Hi! Looking for someone to build a website for you?</h1>
 <h5 class="mt-2 mb-3">Look no more! I am having 2-year experience in developing full stack Websites Desgin & Development WordPress websites with working on projects of different scales. Having customer satisfaction is my priority, 
 I will work until my client is 100% satisfied.</h5>
-<a href="/0-5022035758_20210729_162422_0000.pdf" download>
-<button class="btn btn-success px-3 py-2 ">Download Resume</button>
+<a href="" download>
+<button class="btn  px-3 py-2 ">Download Resume</button>
 </a>
 
 </div>
