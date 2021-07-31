@@ -14,7 +14,8 @@
    
 color:white;
 
-background: linear-gradient(to left, #2af598 0%, #009efd 100%);
+
+background: linear-gradient( to bottom, rgba(9,111,224,1)  0%, rgba(61,245,167,1) 80% );
 }
  
 </style>
