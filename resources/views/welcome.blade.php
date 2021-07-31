@@ -73,7 +73,7 @@ I will work until my client is 100% satisfied.</h5>
 <h2 class="">Why Work With Me</h2>
 <div class="row">
 <div class="col-12 col-lg-6 col-md-6">
-<img src="" alt="" class="img-fluid mt-4">
+<img src="{{asset('image/idea.png')}}" alt="" class="img-fluid w-50 color mt-4">
 <h5 class="mt-3 mb-2">Strategy</h5>
 <p>I define your competition and target audience. 
 Discover what is working in your online industry, then design your website.</p>
