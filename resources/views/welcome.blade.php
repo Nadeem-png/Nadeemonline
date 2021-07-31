@@ -58,12 +58,12 @@ I will work until my client is 100% satisfied.</h5>
  I have a modern progressive approach to design websites.</h6>
 
  <h4 class="mt-5">Some Facts About Me:</h4>
- <p class="mt-4 mb-2"> <span class="color">-</span> Technical education</p>
- <p class="mb-2"> <span class="color">-</span> Creative and easy-going</p>
- <p class="mb-2"> <span class="color" >-</span> 2+ years of experience</p>
- <p class="mb-2"> <span class="color" >-</span> Responsible</p>
- <p class="mb-2"> <span class="color" >-</span> 100+ successfull projects</p>
- <p class="mb-2"> <span class="color" >-</span> Attentive to details</p>
+ <h6 class="mt-4 mb-2"> <span class="color"> <i class="fas fa-ellipsis-h color fa-1x"></i></span> Technical education</h6>
+ <h6 class="mb-2"> <span class="color"><i class="fas fa-ellipsis-h color fa-1x"></i></span> Creative and easy-going</h6>
+ <h6 class="mb-2"> <span class="color" ><i class="fas fa-ellipsis-h color fa-1x"></i></span> 2+ years of experience</h6>
+ <h6 class="mb-2"> <span class="color" ><i class="fas fa-ellipsis-h fa-1x"></i> </span> Responsible</h6>
+ <h6 class="mb-2"> <span class="color" ><i class="fas fa-ellipsis-h color fa-1x"></i></span>  successfull projects</h6>
+ <h6 class="mb-2"> <span class="color" > <i class="fas fa-ellipsis-h color fa-1x"></i> </span> Attentive to details</h6>
 </div>
 </div>
 </div>
