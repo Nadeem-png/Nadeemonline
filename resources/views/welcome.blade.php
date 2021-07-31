@@ -1,7 +1,17 @@
 
 @extends('master/layout')
 @section('content')
+<style>
+.portfolio{
+    background-color:#e6e9ed;
+    height:auto;
+}
+.benifit{
+    background-color:#e6e9ed;
+    height:auto;
+}
 
+</style>
 <div class="container mt-5 py-5 container-sm">
 <div class="row">
 <div class="col-12 col-lg-6 col-md-6">
@@ -37,9 +47,10 @@ I will work until my client is 100% satisfied.</h5>
 </div>
 </div>
 </div>
-<div class="container container-sm mt-5 text-center">
-<h4>BENEFITS</h4>
-<h2 class="mt-3">Why Work With Me</h2>
+<div class="benifit">
+<div class="container container-sm  text-center">
+<h4 class="py-5">BENEFITS</h4>
+<h2 class="">Why Work With Me</h2>
 <div class="row">
 <div class="col-12 col-lg-6 col-md-6">
 <img src="" alt="" class="img-fluid mt-4">
@@ -59,7 +70,7 @@ Discover what is working in your online industry, then design your website.</p>
 <p>I question every aspect of web design and see whether I can change it for better.
  I have a modern progressive approach to design websites.</p>
 </div>
-<div class="col-12 col-lg-6 col-md-6">
+<div class="col-12 col-lg-6 col-md-6 mb-4">
 <img src="" alt="" class="img-fluid mt-4">
 <h5 class="mt-3 mb-2">Develope</h5>
 <p>I turn your ideas into reality & my website is placed on a 
@@ -68,36 +79,85 @@ Discover what is working in your online industry, then design your website.</p>
 </div>
 
 </div>
+</div>
+
 <div class="container container-sm text-center mt-5">
 <h4>PORTFOLIO</h4>
-<h2 class="mt-3">Check Out My Works</h2>
+<h2 class="mt-3 mb-5">Check Out My Works</h2>
 
 <div class="row">
-<div class="col-6 col-lg-4">
-</div>
-<div class="col-6 col-lg-4">
-</div>
-<div class="col-6 col-lg-4">
-</div>
-<div class="col-6 col-lg-4">
+<div class="col-6 col-lg   mb-3 ">
+<div class="portfolio p-2">
+<a href=""> <img src="{{asset('image/a1.PNG')}}" alt="" class="img-fluid img-thumbline"></a>
 </div>
 </div>
+<div class="col-6 col-lg  mb-3">
+<div class="portfolio p-2">
+<a href=""> <img src="{{asset('image/a1.PNG')}}" alt="" class="img-fluid img-thumbline"></a>
+</div>
+</div>
+<div class="col-6 col-lg  mb-3">
+<div class="portfolio p-2">
+<a href=""> <img src="{{asset('image/a1.PNG')}}" alt="" class="img-fluid img-thumbline"></a>
+</div>
+</div>
+<div class="col-6 col-lg mb-3">
+<div class="portfolio p-2">
+<a href=""> <img src="{{asset('image/a1.PNG')}}" alt="" class="img-fluid img-thumbline"></a>
+</div>
+</div>
+</div>
+<div class="mt-5 py-5 text-center">
+<h6>I aim to provide the right web design for your business
+ as customer satisfaction is my priority. I am focusing on 
+ new trends in the field of web development. I do not follow old 
+ modules. I question every aspect of web design and see whether
+  I can change it for the better.
+ I have a modern progressive approach to design websites.</h6>
+
+ <a href="" class="btn btn-success py-3 px-5 mt-4">Start a Project with me!</a>
+</div>
+
 </div>
 
 <div class="container container-sm mt-5 py-3">
-<h1 class="text-center mt-5" style="color: rgb(55,207,162)">Contact-us</h1>
+<h4 class="text-center mt-5" style="color: rgb(55,207,162)">Contact</h4>
+<h2 class="text-center mt-3" >Let’s Have A Chat!</h2>
+<h6 class="text-center mt-5" >Interested? Let’s Get in touch and start working on your website now!</h6>
 <div data-aos="fade-up"
      data-aos-duration="3000">
      <div class="row">
-      <div class="col-lg-6 col-sm-12 col-xs-12 col-md-6 mt-2">
-    <h1 class="mb-3" style="margin-top:30px">Get in touch</h1>
-        <h6>Tell us about your projects, we are excited <br> to hear from you</h6>
-      
-<h4>Phone</h4>
-<p style="color: rgb(55,207,162)">Whatsapp Number: 3017334787</p>
-<p style="color: rgb(55,207,162)">Mobie Number: 03157334779</p>
-<h4>Email Address</h4>
-<a href="mailto:nk27890@gmail.com"style="color:rgb(55,207,162);text-decoration:none;">nk27890@gmail.com</a>
+      <div class="col-lg-6 col-sm-12 col-xs-12 col-md-6 mt-5">
+    <div class="row mb-5">
+    <div class="col-2">
+<a href="" class="">
+            <i class="fab fa-linkedin-in text-dark " style="font-size: 25px"></i>
+        </a>
+    </div>
+    <div class="col-10">
+    <h4 class="mr-5">Lahore, Pakistan</h4>
+    </div>
+    </div>
+    <div class="row  mb-5">
+    <div class="col-2">
+<a href="" class="">
+            <i class="fab fa-linkedin-in text-dark " style="font-size: 25px"></i>
+        </a>
+    </div>
+    <div class="col-10">
+    <h4 class="mr-5">03017334787</h4>
+    </div>
+    </div>
+    <div class="row  mb-5">
+    <div class="col-2">
+<a href="" class="">
+            <i class="fab fa-linkedin-in text-dark " style="font-size: 25px"></i>
+        </a>
+    </div>
+    <div class="col-10">
+    <h4 class="mr-5"><a href="mailto:nk27890@gmail.com"style="color:rgb(55,207,162);text-decoration:none;">nk27890@gmail.com</a></h4>
+    </div>
+    </div>
       </div>
    
      <div class="col-lg-6 col-sm-12 col-xs-12 col-md-6 div3">

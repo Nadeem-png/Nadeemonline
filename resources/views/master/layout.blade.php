@@ -67,9 +67,9 @@
  transition: opacity 0.2s ease-out;
 }
 .footer{
-    background-color:#333;
+    background-color:#e6e9ed;
     height:auto;
-    color:white;
+    
 }
 
             
@@ -139,71 +139,31 @@ $(document).ready(function(){
 @yield('content')
 
 <!-- Back to top -->
-<a href="#" class="back-to-top" ><i class="fas fa-chevron-up fa-2x text-center p-2 text-dark" style="background-color:rgb(55,207,162);" ></i></a>
+<a href="#" class="back-to-top" ><i class="fas fa-chevron-up fa-1x text-center p-2 text-white" style="background-color:rgba(63, 66, 71,0.5);" ></i></a>
 <a href="/whatsapp" class="whatsapp" ><img src="{{asset('image/whatsapp.png')}}" alt="" class="img-fluid " height="55px" width="55px"></a>
 
 <footer class="footer">
-<div class="div container container-sm ">
-<div class="row text-white py-5">
-<div class="col-12 col-lg-4 col-md-5  mt-5">
-<h5 class="text-white">About</h5>
-<p> Create Your Dream Home With Us.
-		From Stylish Bathrooms To Seamless Living Spaces
- 	 Bringing The Outdoors Indoors. We've Got Everything You Need For
-	  Floors, Walls, Bathrooms, Kitchen, Tools, Diy And Decor Advice. 
-	  Trust Us With Your Space, Because With Us, Our Home Is Your Home.</p>
-      <h4 class="mt-5">Some Facts About Me:</h4>
+<div class="container mt-5 py-5">
+<div class="text-center ">
+<img src="{{asset('image/nadeem.jpeg')}}" alt="nadeem" class="img-fluid rounded-circle" height="120px" width="120px">
+<h3 class="mt-5 mb-3">Nadeem khan</h3>
+<h4 class="mb-4">Full Stack Web/Developer</h4>
 
-</div>
-<div class="col-12 col-md-3 col-lg-3 mt-5  ">
-<h5 class="text-white">QUICK LINKS</h5>
-<ul class="text-white ul mt-4 m-0 p-0" style="list-style-type:none;">
-<li class="mb-3"><a href="/about" style="text-decoration:none" class="text-white ">About Us</a></li>
-<li class="mb-3"><a href="/service" style="text-decoration:none" class="text-white ">Services</a></li>
-<li class="mb-3"><a href="/gallery" style="text-decoration:none" class="text-white ">Gallery</a></li>
-<li class="mb-3"><a href="/contact" style="text-decoration:none" class="text-white ">Contact Us</a></li>
-</ul>
-</div>
-<div class="col-12  col-lg-4 col-md-4 mt-5  mb-3">
-<h5 class="text-white">SUBSCRIBE NEWSLETTER</h5>
-<form>
-<div class="input-group  mt-4">
-<input type="text" placeholder="Enter Email" class="form-control border-secondary text-white bg-transparent">
-<div class="input-group-append">
-<button class="btn text-white" type="button" id="" style=" background-color: rgb(55,207,162)">send</button>
-</div>
-
-</div>
-
-</form>
-
-<h5 class="text-white mt-4 mb-2 ">FOLLOW US</h5>
-
-<a href="https://www.facebook.com/585467618175415/posts/4007273682661441/" class=" ">
-            <i class="fab fa-twitter text-white" style="font-size: 20px"></i>
+  
+<a href="https://www.linkedin.com/in/nadeem-khan-3b1924207" class="ml-4 ">
+            <i class="fab fa-linkedin-in text-dark " style="font-size: 25px"></i>
         </a>
-        <a href="https://www.facebook.com/1512917762095055/posts/4083165538403585/" class="ml-4 ">
-            <i class="fab fa-facebook-f text-white" style="font-size: 20px"></i>
+        <a href="https://www.facebook.com/profile.php?id=100012136065724" class="ml-4 ">
+            <i class="fab fa-facebook-f text-dark " style="font-size: 25px"></i>
         </a>
         
-        <a href="" class="ml-4 ">
-            <i class="fab fa-instagram text-white" style="font-size: 20px"></i>
+        <a href="https://www.instagram.com/invites/contact/?i=ntoc7orpkvy9&utm_content=1if40bc" class="ml-4 ">
+            <i class="fab fa-instagram text-dark " style="font-size: 25px"></i>
         </a>
-<a href="" class="ml-4 ">
-            <i class="fab fa-linkedin-in text-white" style="font-size: 20px"></i>
+<a href="https://github.com/Nadeem-png" class="ml-4 ">
+            <i class="fab fa-github text-dark " style="font-size: 25px"></i>
         </a>
-</div>
-</div>
-</div>
-<hr class="bg-dark-50">
-<div class="container">
-<div class="row py-4">
-<div class="col-12 col-lg-5 text-center">
-<img src="{{asset('image/')}}" alt="" class="img-fluid bg-white" width="40%" height="100px">
-</div>
-<div class="col-12 col-lg-7 text-center mt-4">
-<p>All Rights Reserved By Nadeem khan &copy; 2021</p>
-</div>
+        <h6 class="mt-5">© 2020 Nadeem khan - Web Developer. All Rights Reserved.</h6>
 </div>
 </div>
 </footer>
