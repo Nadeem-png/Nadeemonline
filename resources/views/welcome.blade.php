@@ -175,13 +175,13 @@ Discover what is working in your online industry, then design your website.</p>
         </a>
     </div>
     <div class="col-10">
-    <h4 class="mr-5"><a href="mailto:nk27890@gmail.com"style="text-decoration:none;">nk27890@gmail.com</a></h4>
+    <h4 class="mr-5"><a href="mailto:nk27890@gmail.com"style="color:black;text-decoration:none;">nk27890@gmail.com</a></h4>
     </div>
     </div>
 <div class="row mb-5">
     <div class="col-2">
 <a href="" class="">
-            <i class="fas fa-whatsapp color" style="font-size: 40px" ></i>
+            <i class="fab fa-whatsapp-square color" style="font-size:40px"></i>
         </a>
     </div>
     <div class="col-10">
