@@ -11,7 +11,7 @@
     height:auto;
 }
 .btn{
-    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    background: linear-gradient(to right, #5c258d 30%, #4389A2 100%);
 
 }
  
@@ -119,7 +119,7 @@ Discover what is working in your online industry, then design your website.</p>
   I can change it for the better.
  I have a modern progressive approach to design websites.</h6>
 
- <a href="" class="btn btn-success py-3 px-5 mt-4">Start a Project with me!</a>
+ <a href="" class="btn  py-3 px-5 mt-4">Start a Project with me!</a>
 </div>
 
 </div>
