@@ -11,8 +11,8 @@
     height:auto;
 }
 .btn{
-    background: linear-gradient(to right, #5c258d 30%, #4389A2 100%);
-
+    background: linear-gradient(to bottom, #1D2B64 0%, #F8CDDA 100%);
+color:white;
 }
  
 </style>
