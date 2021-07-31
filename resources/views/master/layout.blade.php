@@ -22,6 +22,20 @@
 *{
                 font-family: 'STIX Two Math', serif;
             }
+.color{
+background-image: linear-gradient( 358.4deg,  rgba(249,151,119,1) -2.1%, rgba(98,58,162,1) 90% );
+/* Set the background size and repeat properties. */
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /* Use the text as a mask for the background. */
+  /* This will show the gradient as a text color rather than element bg. */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+
+}
         .a1{
                 color: white;
             }
@@ -105,7 +119,7 @@ $(document).ready(function(){
             <img src="{{asset('')}}" class="img-fluid  " style="margin-left:50px;width:60px; height:60px">
         </a> -->
     </div>
-    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mynav"><i class="fas fa-bars text-white"></i></button>
+    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mynav"><i class="fas fa-bars color"></i></button>
   
     <div class="navbar-collapse  collapse" id="mynav">
         <ul class="navbar-nav mt-3">
@@ -147,21 +161,21 @@ $(document).ready(function(){
 <div class="text-center ">
 <img src="{{asset('image/nadeem.jpeg')}}" alt="nadeem" class="img-fluid rounded-circle" height="120px" width="120px">
 <h3 class="mt-5 mb-3">Nadeem khan</h3>
-<h4 class="mb-4">Full Stack Web/Developer</h4>
+<h4 class="mb-4 color">Full Stack Web/Developer</h4>
 
   
 <a href="https://www.linkedin.com/in/nadeem-khan-3b1924207" class="ml-4 ">
-            <i class="fab fa-linkedin-in text-dark " style="font-size: 25px"></i>
+            <i class="fab fa-linkedin-in color " style="font-size: 25px"></i>
         </a>
         <a href="https://www.facebook.com/profile.php?id=100012136065724" class="ml-4 ">
-            <i class="fab fa-facebook-f text-dark " style="font-size: 25px"></i>
+            <i class="fab fa-facebook-f color" style="font-size: 25px"></i>
         </a>
         
         <a href="https://www.instagram.com/invites/contact/?i=ntoc7orpkvy9&utm_content=1if40bc" class="ml-4 ">
-            <i class="fab fa-instagram text-dark " style="font-size: 25px"></i>
+            <i class="fab fa-instagram color" style="font-size: 25px"></i>
         </a>
 <a href="https://github.com/Nadeem-png" class="ml-4 ">
-            <i class="fab fa-github text-dark " style="font-size: 25px"></i>
+            <i class="fab fa-github color" style="font-size: 25px"></i>
         </a>
         <h6 class="mt-5">© 2020 Nadeem khan - Web Developer. All Rights Reserved.</h6>
 </div>
