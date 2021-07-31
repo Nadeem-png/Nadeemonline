@@ -116,7 +116,7 @@ $(document).ready(function(){
 <nav class="navbar nav1 fixed-top   navbar-expand-lg"style=" padding:3px 3px;background-color: ">
 <div class="w-25">
          <a href="/" class="navbar-brand">
-            <img src="{{asset('image/nk.png')}}" class="img-fluid " style="margin-left:30px;width:500px; height:100px">
+            <img src="{{asset('image/nk2.png')}}" class="img-fluid " style="margin-left:30px;width:550px; height:120px">
         </a> 
     </div>
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mynav"><i class="fas fa-bars color"></i></button>
