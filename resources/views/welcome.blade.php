@@ -151,7 +151,7 @@ Discover what is working in your online industry, then design your website.</p>
     <div class="row mb-5">
     <div class="col-2">
 <a href="" class="">
-            <i class="fab fa-linkedin-in color " style="font-size: 25px"></i>
+            <i class="fas fa-map-marked-alt color" style="font-size: 30px" ></i>
         </a>
     </div>
     <div class="col-10">
@@ -161,7 +161,7 @@ Discover what is working in your online industry, then design your website.</p>
     <div class="row  mb-5">
     <div class="col-2">
 <a href="" class="">
-            <i class="fab fa-linkedin-in color " style="font-size: 25px"></i>
+            <i class="fas fa-mobile-alt color" style="font-size: 30px"></i>
         </a>
     </div>
     <div class="col-10">
@@ -171,7 +171,7 @@ Discover what is working in your online industry, then design your website.</p>
     <div class="row  mb-5">
     <div class="col-2">
 <a href="" class="">
-            <i class="fab fa-linkedin-in color " style="font-size: 25px"></i>
+            <i class="fas fa-envelope"  style="font-size:30px" ></i>
         </a>
     </div>
     <div class="col-10">
