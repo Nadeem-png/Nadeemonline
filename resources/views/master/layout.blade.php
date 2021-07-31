@@ -177,7 +177,9 @@ $(document).ready(function(){
 <a href="https://github.com/Nadeem-png" class="ml-4 ">
             <i class="fab fa-github color" style="font-size: 25px"></i>
         </a>
-        <h6 class="mt-5">&copy; 2020-<?php echo date("Y") ?> Nadeem khan - Web Developer. All Rights Reserved.</h6>
+<img src="{{asset('image/nk2.png')}}" class="img-fluid mt-5" style="margin-left:30px;width:50%; height:150px">
+       
+        <h6 class="mt-3">&copy; 2020-<?php echo date("Y") ?> Nadeem khan - Web Developer. All Rights Reserved.</h6>
 </div>
 </div>
 </footer>
