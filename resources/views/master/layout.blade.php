@@ -154,7 +154,7 @@ $(document).ready(function(){
 
 <!-- Back to top -->
 <a href="#" class="back-to-top" ><i class="fas fa-chevron-up fa-1x text-center p-2 text-white" style="background-color:rgba(63, 66, 71,0.5);" ></i></a>
-<a href="/whatsapp" class="whatsapp" ><i class="fab fa-whatsapp-square color rounded-circle 3px"></i></a>
+<a href="/whatsapp" class="whatsapp" ><i class="fab fa-whatsapp-square color rounded-circle fa-3x"></i></a>
 
 <footer class="footer">
 <div class="container mt-5 py-5">
