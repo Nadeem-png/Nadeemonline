@@ -18,7 +18,7 @@
 <h1 class="mt-5">Hi! Looking for someone to build a website for you?</h1>
 <h5 class="mt-2 mb-3">Look no more! I am having 2-year experience in developing full stack Websites Desgin & Development WordPress websites with working on projects of different scales. Having customer satisfaction is my priority, 
 I will work until my client is 100% satisfied.</h5>
-<a href="https://github.com/Nadeem-png/Nadeemonline/blob/master/resources/views/0-5022035758_20210729_162422_0000.pdf" download>
+<a href="0-5022035758_20210729_162422_0000.pdf" download>
 <button class="btn btn-success px-3 py-2 ">Download Resume</button>
 </a>
 
