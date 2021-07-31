@@ -79,19 +79,19 @@ I will work until my client is 100% satisfied.</h5>
 Discover what is working in your online industry, then design your website.</p>
 </div>
 <div class="col-12 col-lg-6 col-md-6">
-<img src="" alt="" class="img-fluid mt-4">
+<img src="" alt="{{asset('image/design-thinking.png')}}" class="img-fluid w-50 color mt-4">
 <h5 class="mt-3 mb-2">Creative</h5>
 <p>Colour scheme, layout, sitemap, and style. I will bring your
  brand to life with a one of a kind masterpiece, built just for you.</p>
 </div>
 <div class="col-12 col-lg-6 col-md-6">
-<img src="" alt="" class="img-fluid mt-4">
+<img src="" alt="{{asset('image/ui-design.png')}}" class="img-fluid w-50 color  mt-4">
 <h5 class="mt-3 mb-2">Design</h5>
 <p>I question every aspect of web design and see whether I can change it for better.
  I have a modern progressive approach to design websites.</p>
 </div>
 <div class="col-12 col-lg-6 col-md-6 mb-4">
-<img src="" alt="" class="img-fluid mt-4">
+<img src="" alt="{{asset('image/web-development.png')}}" class="img-fluid w-50 color mt-4">
 <h5 class="mt-3 mb-2">Develope</h5>
 <p>I turn your ideas into reality & my website is placed on a 
 “development server” where you get to watch the whole process, live.</p>
