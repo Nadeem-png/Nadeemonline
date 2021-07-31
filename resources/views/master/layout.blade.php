@@ -116,7 +116,7 @@ $(document).ready(function(){
 <nav class="navbar nav1  fixed-top navbar-expand-lg"style=" padding:8px 8px;background-color:#2f3640">
 <div class="w-25">
          <a href="/" class="navbar-brand">
-            <img src="{{asset('image/nk.png')}}" class="img-fluid " style="margin-left:30px;width:400px; height:50px">
+            <img src="{{asset('image/nk.png')}}" class="img-fluid " style="margin-left:30px;width:100%; height:50px">
         </a> 
     </div>
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mynav"><i class="fas fa-bars color"></i></button>
@@ -177,9 +177,8 @@ $(document).ready(function(){
 <a href="https://github.com/Nadeem-png" class="ml-4 ">
             <i class="fab fa-github color" style="font-size: 25px"></i>
         </a>
-<img src="{{asset('image/nk2.png')}}" class="img-fluid mt-3" style="width:500px; height:100px">
        
-        <h6 class="mt-3">&copy; 2020-<?php echo date("Y") ?> Nadeem khan - Web Developer. All Rights Reserved.</h6>
+        <h6 class="mt-5">&copy; 2020-<?php echo date("Y") ?> Nadeem khan - Web Developer. All Rights Reserved.</h6>
 </div>
 </div>
 </footer>
