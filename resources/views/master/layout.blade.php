@@ -113,10 +113,10 @@ $(document).ready(function(){
 </script>
 </head>
 <body style="">
-<nav class="navbar nav1    navbar-expand-lg"style=" padding:;background-color: ">
-<div class="w-25">
+<nav class="navbar nav1  fixed-right  navbar-expand-lg"style=" padding:8px 8px;background-color:#2f3640">
+<div class="">
          <a href="/" class="navbar-brand">
-            <img src="{{asset('image/nk2.png')}}" class="img-fluid " style="margin-left:30px;width:100%; height:100px">
+            <img src="{{asset('image/nk.png')}}" class="img-fluid " style="margin-left:30px;width:100%; height:80px">
         </a> 
     </div>
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mynav"><i class="fas fa-bars color"></i></button>
