@@ -58,7 +58,7 @@ I will work until my client is 100% satisfied.</h5>
  I have a modern progressive approach to design websites.</h6>
 
  <h4 class="mt-5">Some Facts About Me:</h4>
- <h6 class="mt-4 mb-2"> <span class="color"> <i class="fas fa-ellipsis-h color fa-1x"></i></span> Technical education</h6>
+ <h6 class="mt-4 mb-2"> <span class="color"> <i class="fas fa-ellipsis-h color fa-2x"></i></span> Technical education</h6>
  <h6 class="mb-2"> <span class="color"><i class="fas fa-ellipsis-h color fa-2x"></i></span> Creative and easy-going</h6>
  <h6 class="mb-2"> <span class="color" ><i class="fas fa-ellipsis-h color fa-2x"></i></span> 2+ years of experience</h6>
  <h6 class="mb-2"> <span class="color" ><i class="fas fa-ellipsis-h fa-2x"></i> </span> Responsible</h6>
@@ -102,7 +102,7 @@ Discover what is working in your online industry, then design your website.</p>
 </div>
 
 <div class="container container-sm text-center mt-5">
-<h4 class="color">PORTFOLIO</h4>
+<h4 class="color font-weight-bold">PORTFOLIO</h4>
 <h2 class="mt-3 mb-5">Check Out My Works</h2>
 
 <div class="row">
@@ -141,7 +141,7 @@ Discover what is working in your online industry, then design your website.</p>
 </div>
 
 <div class="container container-sm mt-5 py-3">
-<h4 class="text-center mt-5 color">Contact</h4>
+<h4 class="text-center mt-5 color font-weight-bold">Contact</h4>
 <h2 class="text-center mt-3" >Let’s Have A Chat!</h2>
 <h6 class="text-center mt-5" >Interested? Let’s Get in touch and start working on your website now!</h6>
 <div data-aos="fade-up"
