@@ -57,8 +57,8 @@ I will work until my client is 100% satisfied.</h5>
 <h6 class="mt-3">I am  student of Lahore Leads  University, Lahore, Pakistan. I do not follow old modules. I question every aspect of web design and see whether I can change it for better.
  I have a modern progressive approach to design websites.</h6>
 
- <h4 class="mt-5">Some Facts About Me:</h4>
- <h6 class="mt-4 mb-2"> <span class="color"> <i class="fas fa-ellipsis-h color fa-1x"></i></span> Technical education</h6>
+ <h4 class="mt-5 font-weight-bold">Some Facts About Me:</h4>
+ <h6 class="mt-4 mb-2 font-weight-bold"> <span class="color"> <i class="fas fa-ellipsis-h color fa-1x"></i></span> Technical education</h6>
  <h6 class="mb-2 font-weight-bold"> <span class="color"><i class="fas fa-ellipsis-h color fa-1x"></i></span> Creative and easy-going</h6>
  <h6 class="mb-2 font-weight-bold "> <span class="color" ><i class="fas fa-ellipsis-h color fa-1x"></i></span> 2+ years of experience</h6>
  <h6 class="mb-2 font-weight-bold "> <span class="color" ><i class="fas fa-ellipsis-h fa-1x"></i> </span> Responsible</h6>
@@ -106,22 +106,22 @@ Discover what is working in your online industry, then design your website.</p>
 <h2 class="mt-3 mb-5">Check Out My Works</h2>
 
 <div class="row">
-<div class="col-6 col-lg   mb-3 ">
+<div class="col-12 col-lg   mb-3 ">
 <div class="portfolio p-2">
 <a href=""> <img src="{{asset('image/a1.PNG')}}" alt="" class="img-fluid img-thumbline"></a>
 </div>
 </div>
-<div class="col-6 col-lg  mb-3">
+<div class="col-12 col-lg  mb-3">
 <div class="portfolio p-2">
 <a href=""> <img src="{{asset('image/a1.PNG')}}" alt="" class="img-fluid img-thumbline"></a>
 </div>
 </div>
-<div class="col-6 col-lg  mb-3">
+<div class="col-12 col-lg  mb-3">
 <div class="portfolio p-2">
 <a href=""> <img src="{{asset('image/a1.PNG')}}" alt="" class="img-fluid img-thumbline"></a>
 </div>
 </div>
-<div class="col-6 col-lg mb-3">
+<div class="col-12 col-lg mb-3">
 <div class="portfolio p-2">
 <a href=""> <img src="{{asset('image/a1.PNG')}}" alt="" class="img-fluid img-thumbline"></a>
 </div>
