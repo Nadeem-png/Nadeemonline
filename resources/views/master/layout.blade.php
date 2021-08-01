@@ -85,6 +85,13 @@ background-image: linear-gradient( 358.4deg,  rgba(249,151,119,1) -2.1%, rgba(98
     height:auto;
     
 }
+#load{
+    width:100%;
+    height:100%;
+    position:fixed;
+    z-index:9999;
+    background: rgba(0,0,0,1)
+}
 
             
     </style>
@@ -117,7 +124,7 @@ $(document).ready(function(){
 
 </head>
 <body >
-<div id="load" class="spinner-border text-primary d-flex justify-content-center align-items-center flex-column " ></div>
+<div id="load" class="spinner-border text-primary  " ></div>
     <div id="contents">
 <nav class="navbar nav1  fixed-top navbar-expand-lg"style=" padding:8px 8px;background-color:#2f3640">
 <div class="w-25">
@@ -203,7 +210,7 @@ document.onreadystatechange = function () {
          document.getElementById('interactive');
          document.getElementById('load').style.visibility="hidden";
          document.getElementById('contents').style.visibility="visible";
-      },1000);
+      },2000);
   }
 }
 
