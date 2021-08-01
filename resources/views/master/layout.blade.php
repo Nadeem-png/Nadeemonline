@@ -85,13 +85,14 @@ background-image: linear-gradient( 358.4deg,  rgba(249,151,119,1) -2.1%, rgba(98
     height:auto;
     
 }
-#load{
-   
-    position:fixed;
-    z-index:9999;
-marigin-left:400px;
-marign-to:600px;
-    
+#loading {
+position: fixed;
+width: 100%;
+height: 100vh;
+left: 0;
+top:0;
+background: #2f3640 url('image/design-thinking.png') 50% 50% no-repeat center center;
+z-index: 9999;
 }
 
             
@@ -125,7 +126,7 @@ $(document).ready(function(){
 
 </head>
 <body >
-<div id="load" class="spinner-border text-primary  " ></div>
+<div id="loading"></div>
     <div id="contents">
 <nav class="navbar nav1  fixed-top navbar-expand-lg"style=" padding:8px 8px;background-color:#2f3640">
 <div class="w-25">
@@ -200,21 +201,12 @@ $(document).ready(function(){
 <script>
   AOS.init();
 </script>
+
+
 <script>
-
-document.onreadystatechange = function () {
-  var state = document.readyState
-  if (state == 'interactive') {
-       document.getElementById('contents').style.visibility="hidden";
-  } else if (state == 'complete') {
-      setTimeout(function(){
-         document.getElementById('interactive');
-         document.getElementById('load').style.visibility="hidden";
-         document.getElementById('contents').style.visibility="visible";
-      },2000);
-  }
-}
-
+jQuery(document).ready(function() {
+    jQuery('#loading').fadeOut(3000);
+});
 </script>
 </body>
 </html>
