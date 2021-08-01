@@ -85,13 +85,6 @@ background-image: linear-gradient( 358.4deg,  rgba(249,151,119,1) -2.1%, rgba(98
     height:auto;
     
 }
-#load{
-    width:100px;
-    height:100px;
-    position:fixed;
-    z-index:9999;
-    background:url("image/nadeem.jpeg") no-repeat center center rgba(0,0,0,1)
-}
 
             
     </style>
@@ -124,7 +117,7 @@ $(document).ready(function(){
 
 </head>
 <body >
-<div id="load" ></div>
+<div id="load" class="spinner-border text-primary text-center w-50 mt-5 p-5" ></div>
     <div id="contents">
 <nav class="navbar nav1  fixed-top navbar-expand-lg"style=" padding:8px 8px;background-color:#2f3640">
 <div class="w-25">
