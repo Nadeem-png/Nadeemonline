@@ -86,11 +86,11 @@ background-image: linear-gradient( 358.4deg,  rgba(249,151,119,1) -2.1%, rgba(98
     
 }
 #load{
-    width:100%;
-    height:100%;
-    position:fixed;
+   
+    position: absolute;
     z-index:9999;
-    background: rgba(0,0,0,1)
+marigin:100px 100px;
+    
 }
 
             
