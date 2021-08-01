@@ -117,7 +117,7 @@ $(document).ready(function(){
 
 </head>
 <body >
-<div id="load" class="spinner-border text-primary text-center w-50 mt-5 p-5" ></div>
+<div id="load" class="spinner-border text-primary text-center bg-dark mt-5 p-5" ></div>
     <div id="contents">
 <nav class="navbar nav1  fixed-top navbar-expand-lg"style=" padding:8px 8px;background-color:#2f3640">
 <div class="w-25">
