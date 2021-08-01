@@ -118,7 +118,7 @@ $(document).ready(function(){
 </head>
 <body >
 <div id="load" class="spinner-border text-primary d-flex justify-content-center align-items-center flex-column " ></div>
-    <div id="contents bg-dark">
+    <div id="contents">
 <nav class="navbar nav1  fixed-top navbar-expand-lg"style=" padding:8px 8px;background-color:#2f3640">
 <div class="w-25">
          <a href="/" class="navbar-brand">
