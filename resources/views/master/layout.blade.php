@@ -88,9 +88,9 @@ background-image: linear-gradient( 358.4deg,  rgba(249,151,119,1) -2.1%, rgba(98
 #load{
     width:100%;
     height:100%;
-    position:fixed;
+    
     z-index:9999;
-    background:url("image/nk.png") no-repeat center center rgba(0,0,0,1);
+    background-color:#2f3640;
 }
 
             
@@ -124,7 +124,7 @@ $(document).ready(function(){
 
 </head>
 <body >
-<div id="load"></div>
+<div id="load"  class="spinner-border text-primary text-center"></div>
     <div id="contents">
 <nav class="navbar nav1  fixed-top navbar-expand-lg"style=" padding:8px 8px;background-color:#2f3640">
 <div class="w-25">
