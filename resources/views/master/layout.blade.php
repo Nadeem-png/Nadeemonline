@@ -85,6 +85,13 @@ background-image: linear-gradient( 358.4deg,  rgba(249,151,119,1) -2.1%, rgba(98
     height:auto;
     
 }
+#loading {
+position: fixed;
+width: 100%;
+height: 100vh;
+background: #fff url('image/nk.png') no-repeat center center;
+z-index: 9999;
+}
 
             
     </style>
@@ -111,8 +118,13 @@ $(document).ready(function(){
  
 });
 </script>
+<script>
+jQuery(document).ready(function() {
+    jQuery('#loading').fadeOut(3000);
+});
+</script>
 </head>
-<body style="">
+<body  id="loading">
 <nav class="navbar nav1  fixed-top navbar-expand-lg"style=" padding:8px 8px;background-color:#2f3640">
 <div class="w-25">
          <a href="/" class="navbar-brand">
