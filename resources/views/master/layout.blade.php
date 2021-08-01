@@ -90,7 +90,7 @@ background-image: linear-gradient( 358.4deg,  rgba(249,151,119,1) -2.1%, rgba(98
     height:100%;
     position:fixed;
     z-index:9999;
-    background:url("https://www.creditmutuel.fr/cmne/fr/banques/webservices/nswr/images/loading.gif") no-repeat center center rgba(0,0,0,1);
+    background:url("image/nk.png") no-repeat center center rgba(0,0,0,1);
 }
 
             
