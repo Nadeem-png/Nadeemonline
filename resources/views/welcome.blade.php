@@ -58,12 +58,12 @@ I will work until my client is 100% satisfied.</h5>
  I have a modern progressive approach to design websites.</h6>
 
  <h4 class="mt-5">Some Facts About Me:</h4>
- <h6 class="mt-4 mb-2"> <span class="color"> <i class="fas fa-ellipsis-h color fa-2x"></i></span> Technical education</h6>
- <h6 class="mb-2"> <span class="color"><i class="fas fa-ellipsis-h color fa-2x"></i></span> Creative and easy-going</h6>
- <h6 class="mb-2"> <span class="color" ><i class="fas fa-ellipsis-h color fa-2x"></i></span> 2+ years of experience</h6>
- <h6 class="mb-2"> <span class="color" ><i class="fas fa-ellipsis-h fa-2x"></i> </span> Responsible</h6>
- <h6 class="mb-2"> <span class="color" ><i class="fas fa-ellipsis-h color fa-2x"></i></span>  successfull projects</h6>
- <h6 class="mb-2"> <span class="color" > <i class="fas fa-ellipsis-h color fa-2x"></i> </span> Attentive to details</h6>
+ <h6 class="mt-4 mb-2"> <span class="color"> <i class="fas fa-ellipsis-h color fa-1x"></i></span> Technical education</h6>
+ <h6 class="mb-2 font-weight-bold"> <span class="color"><i class="fas fa-ellipsis-h color fa-1x"></i></span> Creative and easy-going</h6>
+ <h6 class="mb-2 font-weight-bold "> <span class="color" ><i class="fas fa-ellipsis-h color fa-1x"></i></span> 2+ years of experience</h6>
+ <h6 class="mb-2 font-weight-bold "> <span class="color" ><i class="fas fa-ellipsis-h fa-1x"></i> </span> Responsible</h6>
+ <h6 class="mb-2 font-weight-bold"> <span class="color" ><i class="fas fa-ellipsis-h color fa-1x"></i></span>  successfull projects</h6>
+ <h6 class="mb-2 font-weight-bold "> <span class="color" > <i class="fas fa-ellipsis-h color fa-1x"></i> </span> Attentive to details</h6>
 </div>
 </div>
 </div>
@@ -128,14 +128,14 @@ Discover what is working in your online industry, then design your website.</p>
 </div>
 </div>
 <div class="mt-5 py-5 text-center">
-<h6>I aim to provide the right web design for your business
+<h4>I aim to provide the right web design for your business
  as customer satisfaction is my priority. I am focusing on 
  new trends in the field of web development. I do not follow old 
  modules. I question every aspect of web design and see whether
   I can change it for the better.
- I have a modern progressive approach to design websites.</h6>
+ I have a modern progressive approach to design websites.</h4>
 
- <a href="" class="btn  py-3 px-5 mt-4">Start a Project with me!</a>
+ <a href="" class="btn  py-3 px-5 mt-4 text-white">Start a Project with me!</a>
 </div>
 
 </div>
