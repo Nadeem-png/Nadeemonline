@@ -89,7 +89,7 @@ background-image: linear-gradient( 358.4deg,  rgba(249,151,119,1) -2.1%, rgba(98
 position: fixed;
 width: 100%;
 height: 100vh;
-background: #fff url('image/filling.gif')  no-repeat center center;
+background: #fff url('image/loading.gif')  no-repeat center center;
 z-index: 9999;
 }
 
