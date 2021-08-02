@@ -198,17 +198,12 @@ $(document).ready(function(){
 <script>
   AOS.init();
 </script>
-<script>
-jQuery(document).ready(function() {
-    jQuery('#loading').fadeOut(3000);
-});
-</script>
 
-<!-- <script>
+ <script>
 var preloader= document.getElementById('loading');
 function myFunction(){
 preloader.style.display='none';
-}
-</script> -->
+},2000);
+</script>
 </body>
 </html>
